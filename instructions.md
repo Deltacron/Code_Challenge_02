@@ -48,3 +48,10 @@ LLFFFLFLFL
 3 3 N LOST
 2 3 S
 ```
+### Deployment
+1. Push your app on AWS/Heroku or any other cloud platform.
+
+# Bonus
+1. Would be great if you can make a simple front-end in react which can be used to give input and see the output of your Node JS app.
+2. Write realistic tests.
+3. Meaningful commits to the github repo are highly encouraged.
